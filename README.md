@@ -10,11 +10,11 @@ Tools Used for Data Cleaning, Analysis and Visualization - MySQL, Power BI
 About Data Set - Data has been sourced from "Her Data Project" which contains HR data with over 22000 rows from the year 2000 to 2020.
 
 Operations Performed:
-i) Data Cleaning
-ii) Data Transformation
-iii) Data Modelling
-iv) Data Visualization
-v) Data Insights
+i. Data Cleaning
+ii. Data Transformation
+iii. Data Modelling
+iv. Data Visualization
+v. Data Insights
 For the project data was imported into MySQL Server and then data cleaning and transformation was performed. Then as per set of questions to be answered data was saved in the form of .csv files
 Then data in .csv files was loaded into Power BI for interactive visuals which included stacked bar charts, line charts, pie charts, maps charts etc.
 
