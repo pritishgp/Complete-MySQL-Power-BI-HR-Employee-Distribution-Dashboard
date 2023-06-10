@@ -19,17 +19,17 @@ For the project data was imported into MySQL Server and then data cleaning and t
 Then data in .csv files was loaded into Power BI for interactive visuals which included stacked bar charts, line charts, pie charts, maps charts etc.
 
 QUESTIONS
-Q1. What is the gender breakdown of employees in the company?
-Q2. What is the race/ethnicity breakdown of employees in the company?
-Q3. What is the age distribution of employees in the company?
-Q4. How many employees work at headquarters versus remote locations?
-Q5. What is the average length of employment for employees who have been terminated?
-Q6. How does the gender distribution vary across departments and job titles?
-Q7. What is the distribution of job titles across the company?
-Q8. Which department has the highest turnover rate?
-Q9. What is the distribution of employees across locations by state?
-Q10. How has the company's employee count changed over time based on hire and term dates?
-Q11. What is the tenure distribution for each department?
+1. What is the gender breakdown of employees in the company?
+2. What is the race/ethnicity breakdown of employees in the company?
+3. What is the age distribution of employees in the company?
+4. How many employees work at headquarters versus remote locations?
+5. What is the average length of employment for employees who have been terminated?
+6. How does the gender distribution vary across departments and job titles?
+7. What is the distribution of job titles across the company?
+8. Which department has the highest turnover rate?
+9. What is the distribution of employees across locations by state?
+10. How has the company's employee count changed over time based on hire and term dates?
+11. What is the tenure distribution for each department?
 
 DATA INSIGHTS
 1. The average length of employment for terminated employees is around 8 years.
