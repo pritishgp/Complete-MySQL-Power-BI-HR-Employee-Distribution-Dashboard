@@ -1,4 +1,4 @@
-# Complete-MySQL-Power-BI-HR-Employee-Distribution-Dashboard
+# Complete-MySQL-PowerBI-HR-Employee-Distribution-Dashboard
 Hello Data Folks, This is a complete project on HR Employee Distribution.
 This project is associated with HR Employee Distribution of a company who is having more than 22000 employees. So, lets deep dive into the project and perform some analysis on this data set.
 
@@ -7,7 +7,8 @@ This project is associated with HR Employee Distribution of a company who is hav
 
 Tools Used for Data Cleaning, Analysis and Visualization - MySQL, Power BI
 
-About Data Set - Data has been sourced from "Her Data Project" which contains HR data with over 22000 rows from the year 2000 to 2020.
+About Data Set - Data has been sourced from Telegram group of "Her Data Project" which contains HR data with over 22000 rows from the year 2000 to 2020.
+This is a guided project from Her Data project.
 
 Operations Performed:
 i. Data Cleaning
@@ -55,4 +56,4 @@ It was a great learning experience and an amazing project to work on with major 
 
 Kindly Share your suggestions and feedbacks too help me improve theses dashboards.
 
-A big thank you to "Her data Project" for this whole project.
+A big thank you to "Her Data Project - Irene" for this beautiful project and dashboard.
