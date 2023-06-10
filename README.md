@@ -15,7 +15,9 @@ ii. Data Transformation
 iii. Data Modelling
 iv. Data Visualization
 v. Data Insights
+
 For the project data was imported into MySQL Server and then data cleaning and transformation was performed. Then as per set of questions to be answered data was saved in the form of .csv files
+
 Then data in .csv files was loaded into Power BI for interactive visuals which included stacked bar charts, line charts, pie charts, maps charts etc.
 
 QUESTIONS
@@ -44,10 +46,10 @@ DATA INSIGHTS
 10. The average tenure for each department is about 8 years with Legal and Auditing having the highest and Services, Sales and Marketing having the lowest.
 
 Note - 
-a) I was using an outdated version of MySQL on my system which prompted that some of the features in MySQL would not be working appropriately. I had to amend multiple syntaxes during this project and had to rewrite the code just to get an output.
-b) Also, the dataset sourced was already corrected in DD-MM-YYYY format in birthdate and hire_date column due to which the results were little bit different.
-c) The data had some records which depicted negative ages therefore data was filteree using emmployees who were having age greater than > 18 and records of 967 employees were excluded.
-d) Some termdates were showing of future therefore the only term dates used were those less than or equal to the current date. The only term dates used were those less than or equal to the current date. 1599 records were also excluded while analysing the dataset.
+1. I was using an outdated version of MySQL on my system which prompted that some of the features in MySQL would not be working appropriately. I had to amend multiple syntaxes during this project and had to rewrite the code just to get an output.
+2. Also, the dataset sourced was already corrected in DD-MM-YYYY format in birthdate and hire_date column due to which the results were little bit different.
+3. The data had some records which depicted negative ages therefore data was filteree using emmployees who were having age greater than > 18 and records of 967 employees were excluded.
+4. Some termdates were showing of future therefore the only term dates used were those less than or equal to the current date. The only term dates used were those less than or equal to the current date. 1599 records were also excluded while analysing the dataset.
 
 It was a great learning experience and an amazing project to work on with major focus on data cleaning, transformation and visualization using SQL and Power BI.
 
